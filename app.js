@@ -4,6 +4,3 @@ function sayHello(name){
 sayHello("Tom");
 sayHello();
 sayHello();
-sayHello();
-sayHello();
-sayHello();
